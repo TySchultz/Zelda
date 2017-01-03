@@ -1,7 +1,6 @@
-# WallBoard
-My old iPad 2 was never getting used. So I decided to attach it to the wall and turn it into a statusBoard of sorts. 
-Displays the current time, temperature, court schedule, and forcast. 
-## Screenshot
+# Zelda
+A 9 month old golden retriever.
+
 ![Alt text](/images/IMG_1.jpg?raw=true "IMG_1.jpg")
 ![Alt text](/images/IMG_2.jpg?raw=true "IMG_1.jpg")
 ![Alt text](images/IMG_3.jpg?raw=true "IMG_1.jpg")
